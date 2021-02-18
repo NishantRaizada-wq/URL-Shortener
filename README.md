@@ -5,7 +5,7 @@
 A URL-Shortener created using Node-JS and synced with Firebase Database.
 
 
-## Demo
+## Demo By Rana
 ![out](https://cloud.githubusercontent.com/assets/20211622/23782082/be677c3e-0577-11e7-9851-4ceb3fda7367.gif)
 
 ## Why use it?
